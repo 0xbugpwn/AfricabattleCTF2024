@@ -1,0 +1,7 @@
+Challenge 3: Do[ro x2] [Easy]
+
+Investigate the clues to discover the flag.
+
+Flag: BattleCTF{You_d0_1t_like_4_pro_forensicator6578888}
+
+Author: C4xp3r

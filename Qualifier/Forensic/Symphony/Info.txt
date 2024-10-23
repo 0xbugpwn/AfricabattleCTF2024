@@ -1,0 +1,8 @@
+Challenge 4: Symphony [Easy]
+
+Analyze the file. Extensive manipulation is required to uncover what’s hidden within.
+
+Flag Format : BattleCTF{*_*_*_*_*}
+Flag: BattleCTF{M0RS3_C0D3_!TRANSL4T0R@@WITH_4UD10_FE4TUR3512598648}
+
+Author: C4xp3r

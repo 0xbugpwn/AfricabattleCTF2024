@@ -1,0 +1,8 @@
+web_server up
+database_server down
+email_server up
+file_server down
+monitoring_server up
+core_server up
+API up
+firewall up

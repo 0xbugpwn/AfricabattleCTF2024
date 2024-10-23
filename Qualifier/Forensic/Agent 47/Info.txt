@@ -1,0 +1,8 @@
+Challenge 6:  Agent 47 
+
+Agent 47 and Diana have been tirelessly searching for what shifted in the shadows. Perhaps Agent 46 holds the key. Uncover the change and recover the flag.
+
+Flag Format : BattleCTF{*_*_*_*_*}
+Flag: BattleCTF{Jo1n_the_4dv3nture_in_4fric@!58963}
+
+Author: C4xp3r

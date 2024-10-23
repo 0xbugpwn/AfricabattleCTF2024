@@ -1,0 +1,9 @@
+version: "3"  
+services:
+  pwn:
+    build: ./
+    container_name: 0xterminal
+    ports:
+      - "1005:1005"
+    restart: unless-stopped
+    read_only: true

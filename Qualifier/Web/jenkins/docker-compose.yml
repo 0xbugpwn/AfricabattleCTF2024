@@ -1,0 +1,11 @@
+version: '3'
+services:
+  jenkins:
+    build: .
+    ports:
+      - "8080:8080"
+    init: true
+    restart: unless-stopped
+    read_only: true
+    tmpfs:
+     - /tmp
