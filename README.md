@@ -1,6 +1,6 @@
 # AfricabattleCTF2024
 
-> This repository contains challenges from Africa battleCTF Qualifier 2024.
+> This repository contains challenges from Africa battleCTF 2024.
 
 ![Scoreboard](home.png)
 
