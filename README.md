@@ -1,4 +1,4 @@
-# AfricabattleCTF2024
+# Africa battleCTF 2024
 
 > This repository contains challenges from Africa battleCTF 2024.
 
